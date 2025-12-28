@@ -40,6 +40,21 @@ A **full-stack e-commerce platform** for a flower shop with secure authenticatio
 
 ---
 
+### 🎟️ Voucher Generator Automation Tool (Python)
+
+A high-speed automation solution that generates thousands of print-ready vouchers — each with unique IDs and scannable QR codes — inside a single PDF file. Instead of manually editing voucher images one by one, this tool overlays identifiers and QR codes onto a template and scales output to exact physical dimensions, making it production-ready for mass printing.
+
+**Highlights**
+- Generates 1,000–5,000+ vouchers in minutes
+- Dynamic QR + text placement using pixel-accurate coordinates
+- Test mode for layout verification before full batch
+- Produces a single multi-page PDF optimized for printing
+- Fully customizable numbering formats and QR naming patterns
+
+**Tech Stack:** Python, ReportLab, Pillow, Pandas, OpenPyXL
+
+---
+
 ## 📫 Connect with Me
 - [GitHub](https://github.com/Amjad-dev1)  
 - [LinkedIn](https://www.linkedin.com/in/amjad-ziadeh-9844ba399/)
