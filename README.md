@@ -11,14 +11,23 @@ I’m passionate about turning ideas into **functional, scalable, visually engag
 ## 💻 Skills
 
 **Frontend & Web:** React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+
 **Backend:** Next.js, Node.js, Express.js, PHP, REST APIs, JWT Authentication
+
 **Databases:** MongoDB, MySQL, SQL Server
+
 **3D & Animation:** Three.js, React Three Fiber (R3F), Motion
+
 **Design:** UI/UX Design
+
 **SEO:** Search Engine Optimization (SEO)
+
 **Stacks & Architecture:** MERN Stack, MongoDB + Next.js + Node.
+
 **Other:** Python, Java, C++, C#, OOP, Networking, Vite, Software Engineering Principles, Data Structures
+
 **Networking**
+
 **Cybersecurity Best Practices**
 
 ---
