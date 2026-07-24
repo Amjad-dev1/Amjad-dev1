@@ -26,6 +26,10 @@ Alongside software engineering and web development, I also have experience with 
 
 **Stacks & Architecture:** MERN Stack, MongoDB + Next.js + Node.js
 
+**Version Control & Collaboration:** Git, GitHub, Version Control, GitHub Actions
+
+**AI & AI-Assisted Development:** Claude Code, AI Agents, AI-Assisted Software Development
+
 **Machine Learning:** Supervised & Unsupervised Learning, Classification, Regression, Clustering, Association Rule Mining, Recommender Systems, Bayesian Networks
 
 **ML Tools & Workflow:** Python, scikit-learn, pandas, NumPy, SciPy, Matplotlib, seaborn, mlxtend, pgmpy, EDA, Data Preprocessing, Feature Selection, Model Evaluation
